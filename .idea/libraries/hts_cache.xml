@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hts-cache">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hts-cache/new.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hts-cache/old.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
